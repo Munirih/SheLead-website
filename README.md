@@ -19,7 +19,6 @@ SheLead is a digital platform designed to empower women for a brighter future; t
 2) Leadership Resources & Scholarships 
 3) Career Development Tools 
 4) Supportive Community 
-5) Supportive Community
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?logo=github)](https://munirih.github.io/SheLead-website/)
 
@@ -36,7 +35,7 @@ SheLead is a digital platform designed to empower women for a brighter future; t
 
 2. Navigate to the project directory:
 
-cd SheLead-website
+    cd SheLead-website
 
 3. Open the project in your browser or preferred IDE.
 
@@ -46,12 +45,12 @@ cd SheLead-website
 We welcome contributions to improve SheLead! Here's how you can help:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
-   ```bash
+   
    git checkout -b feature-name
 
 3. Commit your changes and push the branch:
 
-git push origin feature-name
+    git push origin feature-name
 
 4. Open a pull request and describe your changes.
 
@@ -60,14 +59,14 @@ git push origin feature-name
 ## Project Presentation Colours
 
 Primary:
-Green #9cc3b4, 
-Light #f1e2cc,
-Purple #885784, 
+- Green #9cc3b4, 
+- Light #f1e2cc,
+- Purple #885784, 
 
 Secondary: 
-Pink #cb6f91, 
-White #FFFFFF
-Black #000000
+- Pink #cb6f91, 
+- White #FFFFFF
+- Black #000000
 
 
 ---
@@ -75,11 +74,14 @@ Black #000000
 ## Technologies Used
 - HTML5, CSS3, JavaScript
 - GitHub Pages for hosting
+- Framework: BootStrap
 - Telegraf font for typography
-Sizes 
+- Form submission API service: https://web3forms.com/platforms/html-contact-form
+
+
+**Sizes** 
 - Title => 76
 - Other text => 22 - 25
 
 
----
 
