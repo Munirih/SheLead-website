@@ -1,14 +1,15 @@
-#SheLead: Women's Leadership & Mentorship Network
+# SheLead: Women's Leadership & Mentorship Network
 
 Hi There, This repository contains a brief summary you need to know about the SheLead project
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Description](#description)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Project Presentation Colours](#project-presentation-colours)
-- [Technologies Used](#technologies-used)
+- [SheLead: Women's Leadership \& Mentorship Network](#shelead-womens-leadership--mentorship-network)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Contributing](#contributing)
+  - [Project Presentation Colours](#project-presentation-colours)
+  - [Technologies Used](#technologies-used)
 
 
 ## Description
