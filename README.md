@@ -68,14 +68,14 @@ Secondary:
 - Black #000000
 
 **Font Type**
-Telegraph
+- Telegraph
 
 **Sizes** 
 - Title => 76
 - Other text => 22 - 25
 
-**Graphic design platform**
-Canva
+**Graphic design platform:**
+- Canva
 
 
 ## Technologies Used
