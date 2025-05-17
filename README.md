@@ -1,15 +1,15 @@
-# SheLead: Women's Leadership & Mentorship Network
+**SheLead: Women's Leadership & Mentorship Network**
 
 Hi There, This repository contains a brief summary you need to know about the SheLead project
 
 ## Table of Contents
-- [SheLead: Women's Leadership \& Mentorship Network](#shelead-womens-leadership--mentorship-network)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Contributing](#contributing)
-  - [Project Presentation Colours](#project-presentation-colours)
-  - [Technologies Used](#technologies-used)
+
+- [Table of Contents](#table-of-contents)
+- [Description](#description)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [Project Presentation](#project-presentation)
+- [Technologies Used](#technologies-used)
 
 
 ## Description
@@ -26,7 +26,6 @@ SheLead is a digital platform designed to empower women for a brighter future; t
 **View the SheLead website here**: [https://munirih.github.io/SheLead-website/](https://munirih.github.io/SheLead-website/)
 
 
----
 
 ## Installation
 
@@ -40,7 +39,6 @@ SheLead is a digital platform designed to empower women for a brighter future; t
 
 3. Open the project in your browser or preferred IDE.
 
----
 
 ## Contributing
 We welcome contributions to improve SheLead! Here's how you can help:
@@ -49,16 +47,16 @@ We welcome contributions to improve SheLead! Here's how you can help:
    
    git checkout -b feature-name
 
-3. Commit your changes and push the branch:
+3. Commit your changes and push the newly created branch:
 
     git push origin feature-name
 
 4. Open a pull request and describe your changes.
 
----
 
-## Project Presentation Colours
+## Project Presentation
 
+**Colours**
 Primary:
 - Green #9cc3b4, 
 - Light #f1e2cc,
@@ -69,20 +67,24 @@ Secondary:
 - White #FFFFFF
 - Black #000000
 
+**Font Type**
+Telegraph
 
----
+**Sizes** 
+- Title => 76
+- Other text => 22 - 25
+
+**Graphic design platform**
+Canva
+
 
 ## Technologies Used
 - HTML5, CSS3, JavaScript
 - GitHub Pages for hosting
 - Framework: BootStrap
-- Telegraf font for typography
 - Form submission API service: https://web3forms.com/platforms/html-contact-form
 
 
-**Sizes** 
-- Title => 76
-- Other text => 22 - 25
 
 
 
